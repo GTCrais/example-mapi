@@ -1,0 +1,17 @@
+{
+    "name": "gtcrais/example-mapi",
+    "type": "project",
+    "description": "Foo",
+    "license": "MIT",
+    "require": {
+        "php": "^7.2.5",
+        "hfig/MAPI": "dev-master"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
